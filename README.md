@@ -1,1 +1,1 @@
-# Covid-19-X-ray-classification
+# Covid-19-X-Ray-classification
